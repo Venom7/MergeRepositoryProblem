@@ -1,2 +1,2 @@
 var hello = 12
-var myName = "Diego Said Chavez Arana"
+var myName = "Diego"
